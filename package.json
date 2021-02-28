@@ -1,7 +1,7 @@
 {
-	"company": "Volt Engine",
 	"description": "Python scripting in Volt.",
 	"id": "voltpy",
+	"publisher": "Volt Engine",
 	"title": "Volt Py",
 	"version": "1.0.0"
 }
