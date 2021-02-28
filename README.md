@@ -1,2 +1,2 @@
-# volt-python
+# voltpy
 🐍 Python scripting in Volt.
